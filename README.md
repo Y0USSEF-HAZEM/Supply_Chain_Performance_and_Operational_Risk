@@ -265,5 +265,5 @@ Detailed project documentation is available in the repository:
 
 Junior Data Analyst | Software Engineering Graduate
 
-- **LinkedIn:** [View LinkedIn Profile](https://www.linkedin.com/in/youssef-hazem-b6ab58324/)
+- **LinkedIn:** [View LinkedIn Profile](https://www.linkedin.com/in/youssef-hazem-youssef/)
 - **Email:** youssef2598@gmail.com
