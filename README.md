@@ -4,9 +4,9 @@
 
 ## Project Overview
 
-This project explores key business questions across supply-chain performance: how profitability differs across discount tiers, what opportunities exist to improve customer retention, where stockouts or excess inventory need attention, whether shipments meet their expected dates, and which operational risks deserve the most attention.
+This project examines supply-chain performance across profitability, customer retention, inventory availability, delivery reliability, and operational risk, with a focus on identifying performance gaps and improvement opportunities.
 
-Rather than accepting the source data and business rules at face value, I investigated inconsistencies, reconstructed key revenue calculations, and tested alternative inventory and delivery definitions to assess their impact on the conclusions.
+To support reliable conclusions, I investigated source-data inconsistencies, reconstructed key revenue calculations, and tested alternative inventory and delivery definitions rather than accepting the supplied fields and rules at face value.
 
 ## At a Glance
 
