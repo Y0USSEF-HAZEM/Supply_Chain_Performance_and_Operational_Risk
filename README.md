@@ -253,9 +253,9 @@ The project uses a **multi-fact (Galaxy) schema** with five fact tables, each re
 
 Detailed project documentation is available in the repository:
 
-- **[Project Documentation:](02_Documentation/Project_Documentation.md)** Data preparation, ETL decisions, data modeling, validation, and analytical findings.
-- **[DAX Measures:](02_Documentation/DAX_Measures.md)** Business definitions, DAX formulas, formats, filter behavior, and validation notes.
-- **[Project Log:](02_Documentation/Project_Log.md)** Key investigations, analytical and modeling decisions, and validation results.
+- **[Project Documentation:](Documentation/Project_Documentation.md)** Data preparation, ETL decisions, data modeling, validation, and analytical findings.
+- **[DAX Measures:](Documentation/DAX_Measures.md)** Business definitions, DAX formulas, formats, filter behavior, and validation notes.
+- **[Project Log:](Documentation/Project_Log.md)** Key investigations, analytical and modeling decisions, and validation results.
 
 **Dataset:** [End-to-End Supply Chain dataset](https://www.kaggle.com/datasets/shivangirathore28/end-to-end-supply-chain-dataset) (Kaggle)
 
