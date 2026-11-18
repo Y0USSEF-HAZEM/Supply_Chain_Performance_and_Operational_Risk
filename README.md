@@ -6,7 +6,7 @@
 
 This project examines supply-chain performance across profitability, customer retention, inventory availability, delivery reliability, and operational risk, with a focus on identifying performance gaps and improvement opportunities.
 
-To support reliable conclusions, I investigated source-data inconsistencies, reconstructed key revenue calculations, and tested alternative inventory and delivery definitions rather than accepting the supplied fields and rules at face value.
+To support reliable conclusions, I investigated source-data inconsistencies, reconstructed key revenue calculations, and tested alternative inventory and delivery definitions rather than accepting the source fields and rules at face value.
 
 ## At a Glance
 
