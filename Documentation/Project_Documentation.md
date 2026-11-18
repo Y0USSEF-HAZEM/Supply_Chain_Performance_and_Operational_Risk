@@ -124,7 +124,7 @@ Each dimension uses a generated key to connect its columns to the corresponding 
 | `fact_shipment`    | One row per shipment                   |
 | `fact_risk_events` | One row per risk event                 |
 
-![Power BI Data Model](Dashboard_Pages/data_model.png)
+![Power BI Data Model](images/data_model.png)
 
 ### 1. Sales & Orders
 
